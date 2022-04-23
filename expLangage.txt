@@ -1,0 +1,34 @@
+import ISIL.lang;
+import ISIL.io;
+public class $ISIL_B{
+Entier $x,$z;
+Entier $i;
+Chaine $S;
+Reel $y;
+Entier @tab3[5];
+Chaine @tab2[102];
+CONST Chaine $A:="X",$B:="HIHI";
+CONST Reel $C:=1;
+main(){
+##jdh
+dhdh##
+$y:=6.00- $x*$z+ @tab3[5]+(5);
+$y:=@tab3[5];
+$x:=$i+$z;
+$S:="ABC"*$S-"AAA"/$A+$x;
+$x:=$i*-5;
+$y:=5/$C;
+Out("test %s %d",$S,$i);
+In("%d",$S);
+$A:=$y;
+For($i:=$x ;$i<10 ;$i++)
+{
+Out("test %s %d",$S,$i);
+In("%d",$S);
+}
+
+}
+
+
+}
+}
